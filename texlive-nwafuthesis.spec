@@ -1,6 +1,6 @@
 Name:		texlive-nwafuthesis
 Version:	63438
-Release:	1
+Release:	2
 Summary:	A thesis template package for Northwest A&F University, China
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nwafuthesis
