@@ -3,7 +3,7 @@ Version:	66895
 Release:	1
 Summary:	A thesis template package for Northwest A&F University, China
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nwafuthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nwafuthesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nwafuthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nwafuthesis.doc.r%{version}.tar.xz
